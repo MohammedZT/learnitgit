@@ -3,7 +3,7 @@ Sat Apr 11 16:59:49.525 BGH
 RP/0/RSP0/CPU0:DBGARSAT-PuNas29#show version brief
 Sat Apr 11 17:00:00.683 BGH
 
-Cisco IOS XR Software, Version 6.6.3[Default]
+Cisco IOS XR Software, Version 6.6.3
 Copyright (c) 2019 by Cisco Systems, Inc.
 
 ROM: System Bootstrap, Version 3.04(20160919:102146) [ASR9K ROMMON],  
